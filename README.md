@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rafikchemli
 - 👀 I’m interested in interactive dashboards, machine learning, prediction models, and optimization.
 - 🌱 I’m currently learning Dash bootstrap.
-- 📫 You can reach me here: Rafikchemli.com
-
+- 📫 You can reach me here: Rafikchemli.com/#contact
