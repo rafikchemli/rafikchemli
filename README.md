@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rafikchemli
 - 👀 I’m interested in interactive dashboards, machine learning, prediction models, and optimization.
-- 🌱 I’m currently learning Dash bootstrap.
+- 🌱 I’m currently learning Homomorphic encryption.
 - 📫 You can reach me here: [https://Rafikchemli.com/](https://rafikchemli.com/#contact)
