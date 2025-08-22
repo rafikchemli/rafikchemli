@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rafikchemli  
 - 👀 I’m interested in implementing AI responsibly and ethically.  
-- 🌱 I’m currently learning about how to build production-grade AI systems.  
+- 🌱 I’m currently learning about Synthetic Data Generation and Differential Privacy.  
 - 📫 You can reach me here: [https://Rafikchemli.com/](https://rafikchemli.com/#contact)
