@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @rafikchemli
-- 👀 I’m interested in helping businesses with AI tools.
-- 🌱 I’m currently learning Homomorphic encryption & working on [DashDesign.dev](https://dashdesign.dev)
+- 👋 Hi, I’m @rafikchemli  
+- 👀 I’m interested in implementing AI responsibly and ethically.  
+- 🌱 I’m currently learning about how to build production-grade AI systems.  
 - 📫 You can reach me here: [https://Rafikchemli.com/](https://rafikchemli.com/#contact)
-  
