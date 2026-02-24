@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rafikchemli  
 - 👀 I’m interested in building with AI tools efficiently.
-- 🌱 I’m currently learning about differential privacy and the Cypherpunk movement.  
+- 🌱 I’m currently learning about differential privacy and the [Cypherpunk movement](https://www.activism.net/cypherpunk/manifesto.html). 
 - 📫 You can reach me here: [https://Rafikchemli.com/](https://rafikchemli.com/#contact)
