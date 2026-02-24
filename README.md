@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rafikchemli  
-- 👀 I’m interested in implementing AI responsibly and ethically.  
-- 🌱 I’m currently learning about synthetic data and differential privacy.  
+- 👀 I’m interested in building with AI tools efficiently.
+- 🌱 I’m currently learning about differential privacy and the Cypherpunk movement.  
 - 📫 You can reach me here: [https://Rafikchemli.com/](https://rafikchemli.com/#contact)
