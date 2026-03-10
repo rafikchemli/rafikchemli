@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @rafikchemli  
-- 👀 I’m interested in building with AI tools efficiently.
-- 🌱 I’m currently learning about differential privacy and the [Cypherpunk movement](https://www.activism.net/cypherpunk/manifesto.html). 
-- 📫 You can reach me here: [https://Rafikchemli.com/](https://rafikchemli.com/#contact)
+### Rafik Chemli
+
+AWS Solutions Architect & Independent AI Researcher
+
+**Interests:** Biological and artificial neural networks, agentic workflows & product design.
+
+**Favorite paper:** [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107) (Schölkopf et al., 2021)
+
+Also interested in the [cypherpunk movement](https://www.activism.net/cypherpunk/manifesto.html) and design.
+
+[rafikchemli.com](https://rafikchemli.com/#contact)
