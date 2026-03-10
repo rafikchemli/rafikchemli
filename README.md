@@ -5,5 +5,3 @@ AWS Solutions Architect by day & Independent AI Researcher by night
 **Favorite paper:** [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107) (Schölkopf et al., 2021)
 
 Also interested in the [cypherpunk movement](https://www.activism.net/cypherpunk/manifesto.html) and design.
-
-[rafikchemli.com](https://rafikchemli.com/#contact)
