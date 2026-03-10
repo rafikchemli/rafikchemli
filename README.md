@@ -1,6 +1,4 @@
-### Rafik Chemli
-
-AWS Solutions Architect & Independent AI Researcher
+AWS Solutions Architect by day & Independent AI Researcher by night
 
 **Interests:** Biological and artificial neural networks, agentic workflows & product design.
 
