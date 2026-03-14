@@ -1,4 +1,4 @@
-AWS Solutions Architect by day & Independent AI Researcher by night
+AI Solutions Architect by day & Wannabe AI Researcher by night
 
 **Interests:** Biological neural networks, agentic systems & product design.
 
