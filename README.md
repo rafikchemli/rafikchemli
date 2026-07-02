@@ -1,4 +1,4 @@
-AI Solutions Architect by day & Wannabe AI Researcher by night
+Solutions architect by day, neural network enthusiast by night
 
 **Interests:** Biological neural networks, agentic systems & product design.
 
